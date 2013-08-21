@@ -55,6 +55,16 @@
                 android:layout_gravity="center"/>
         </FrameLayout>
 
+        <FrameLayout 
+            androidprv:paddingTop="7.0dip"
+            androidprv:layout_width="fill_parent" 
+            androidprv:layout_height="wrap_content">
+            <include androidprv:layout_gravity="top|center" 
+                androidprv:layout_width="fill_parent" 
+                androidprv:layout_height="fill_parent" 
+                layout="@layout/keyguard_multi_user_selector" />
+        </FrameLayout>
+
         <View android:layout_width="match_parent"
               android:layout_height="match_parent"
               androidprv:layout_childType="scrim"
