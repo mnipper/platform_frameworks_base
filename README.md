@@ -2,7 +2,7 @@
 
 ---
 
-This is a modified Android system to disable various settings through the user interface for research at Duke University.
+This is a modified Android system to enable multiple user profiles for research at Duke University.
 
 Current modifications:
 * Enable multiple user profiles
