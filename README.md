@@ -6,3 +6,4 @@ This is a modified Android system to enable multiple user profiles for research 
 
 Current modifications:
 * Enable multiple user profiles
+* Enable restricted user profiles
